@@ -1,4 +1,4 @@
-const {home,bollywood,technology,hollywood,fitness,food} = require("../controller/data");
+const {home,bollywood,technology,hollywood,fitness,food} = require("../controller/data")
 
 const route =require("express").Router();
 
